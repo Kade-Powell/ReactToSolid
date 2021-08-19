@@ -25,7 +25,7 @@
 
 ## About The Project
 
-<b>ReactToSolid</b> is a simple, functional language that can be interpreted or compiled for execution. The goal is to combine my favorite parts of Python, JavaScript, and Rust into a general purpose language.
+<b>ReactToSolid</b> is a project that aims to be able to convert React projects to Solid.js.
 
 ### Built With
 
