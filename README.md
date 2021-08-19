@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="logo.png" alt="ReactToSolid" height="250" />
+    <img src="r2s.png" alt="ReactToSolid" height="250" />
 <br />
 
   <p align="center">
